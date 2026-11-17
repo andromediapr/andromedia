@@ -1,0 +1,14 @@
+ANDROMEDIA SİTE PAKETİ  ·  https://andromediapr.github.io/andromedia/
+====================================================================
+GitHub'a yükleme:
+1) Bu zip'i bilgisayarında aç (sağ tık > Tümünü ayıkla). Zip'in KENDİSİNİ değil, içindeki dosyaları yükleyeceksin.
+2) github.com/andromediapr/andromedia deposuna gir.
+3) "Add file" > "Upload files" de, klasördeki bütün dosyaları seçip sürükle-bırak yap.
+   (index.html zaten var; üzerine yazılır, sorun değil.)
+4) Alttaki "Commit changes" düğmesine bas.
+5) 1-2 dakika sonra siteyi yenile.
+
+İstatistik: goatcounter.com'dan ücretsiz hesap aç; seçtiğin kodu index.html içindeki
+var GOATCOUNTER='';  satırına yaz (ör. var GOATCOUNTER='andromedia';).
+Formlar: İlk gerçek gönderimden sonra andromedia.pr@gmail.com'a gelen "Activate Form" e-postasını onayla.
+Google: Search Console'a siteyi ekleyip sitemap.xml adresini gönder.

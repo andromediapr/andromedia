@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /andromedia/tesekkurler.html
+
+Sitemap: https://andromediapr.github.io/andromedia/sitemap.xml
